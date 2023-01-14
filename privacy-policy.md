@@ -1,5 +1,3 @@
-#Privacy Policy
-
 Your data is your own.
 
 The browser extensions that I make only request the permissions required to carry out their stated purpose.
